@@ -1,3 +1,9 @@
+####google tsung和wrk的对比情况，结果看到这个问题。
+
+####居然没人提到buger/gor · GitHub。。。走过路过不要错过，需要copy线上流量的童鞋赶紧用起来，是时候抛弃tcpcopy了！
+
+####至于纯粹的压力测试，我推荐wrk。
+
 [![GitHub release](https://img.shields.io/github/release/buger/gor.svg?maxAge=3600)](https://github.com/buger/gor/releases) [![codebeat](https://codebeat.co/badges/6427d589-a78e-416c-a546-d299b4089893)](https://codebeat.co/projects/github-com-buger-gor) [![Go Report Card](https://goreportcard.com/badge/github.com/buger/gor)](https://goreportcard.com/report/github.com/buger/gor) [![Join the chat at https://gitter.im/buger/gor](https://badges.gitter.im/buger/gor.svg)](https://gitter.im/buger/gor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Go Replay](http://i.imgur.com/ZG2ki5n.png)
